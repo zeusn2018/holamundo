@@ -16,7 +16,7 @@ public class HolaMundo01 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("holamundo01.HolaMundo01.main() Zeus");
+        System.out.println("holamundo01.HolaMundo01.main() Zeus"); 
     }
     
 }
